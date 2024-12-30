@@ -1,0 +1,182 @@
+{
+  "# 1." : {
+    "Epoch time of Scraping" : "1735564566",
+    "Team Name" : "Buffalo Sabres",
+    "Year" : "1990",
+    "Win %" : "0.388"
+  },
+  "# 2." : {
+    "Epoch time of Scraping" : "1735564566",
+    "Team Name" : "Hartford Whalers",
+    "Year" : "1990",
+    "Win %" : "0.388"
+  },
+  "# 3." : {
+    "Epoch time of Scraping" : "1735564567",
+    "Team Name" : "Minnesota North Stars",
+    "Year" : "1990",
+    "Win %" : "0.338"
+  },
+  "# 4." : {
+    "Epoch time of Scraping" : "1735564567",
+    "Team Name" : "New York Islanders",
+    "Year" : "1990",
+    "Win %" : "0.312"
+  },
+  "# 5." : {
+    "Epoch time of Scraping" : "1735564567",
+    "Team Name" : "Quebec Nordiques",
+    "Year" : "1990",
+    "Win %" : "0.2"
+  },
+  "# 6." : {
+    "Epoch time of Scraping" : "1735564567",
+    "Team Name" : "Toronto Maple Leafs",
+    "Year" : "1990",
+    "Win %" : "0.287"
+  },
+  "# 7." : {
+    "Epoch time of Scraping" : "1735564567",
+    "Team Name" : "Vancouver Canucks",
+    "Year" : "1990",
+    "Win %" : "0.35"
+  },
+  "# 8." : {
+    "Epoch time of Scraping" : "1735564567",
+    "Team Name" : "Winnipeg Jets",
+    "Year" : "1990",
+    "Win %" : "0.325"
+  },
+  "# 9." : {
+    "Epoch time of Scraping" : "1735564567",
+    "Team Name" : "Buffalo Sabres",
+    "Year" : "1991",
+    "Win %" : "0.388"
+  },
+  "# 10." : {
+    "Epoch time of Scraping" : "1735564567",
+    "Team Name" : "Calgary Flames",
+    "Year" : "1991",
+    "Win %" : "0.388"
+  },
+  "# 11." : {
+    "Epoch time of Scraping" : "1735564569",
+    "Team Name" : "Hartford Whalers",
+    "Year" : "1991",
+    "Win %" : "0.325"
+  },
+  "# 12." : {
+    "Epoch time of Scraping" : "1735564569",
+    "Team Name" : "Quebec Nordiques",
+    "Year" : "1991",
+    "Win %" : "0.25"
+  },
+  "# 13." : {
+    "Epoch time of Scraping" : "1735564569",
+    "Team Name" : "San Jose Sharks",
+    "Year" : "1991",
+    "Win %" : "0.212"
+  },
+  "# 14." : {
+    "Epoch time of Scraping" : "1735564569",
+    "Team Name" : "Toronto Maple Leafs",
+    "Year" : "1991",
+    "Win %" : "0.375"
+  },
+  "# 15." : {
+    "Epoch time of Scraping" : "1735564569",
+    "Team Name" : "Edmonton Oilers",
+    "Year" : "1992",
+    "Win %" : "0.31"
+  },
+  "# 16." : {
+    "Epoch time of Scraping" : "1735564570",
+    "Team Name" : "Hartford Whalers",
+    "Year" : "1992",
+    "Win %" : "0.31"
+  },
+  "# 17." : {
+    "Epoch time of Scraping" : "1735564571",
+    "Team Name" : "Ottawa Senators",
+    "Year" : "1992",
+    "Win %" : "0.119"
+  },
+  "# 18." : {
+    "Epoch time of Scraping" : "1735564571",
+    "Team Name" : "San Jose Sharks",
+    "Year" : "1992",
+    "Win %" : "0.131"
+  },
+  "# 19." : {
+    "Epoch time of Scraping" : "1735564571",
+    "Team Name" : "Tampa Bay Lightning",
+    "Year" : "1992",
+    "Win %" : "0.274"
+  },
+  "# 20." : {
+    "Epoch time of Scraping" : "1735564571",
+    "Team Name" : "Mighty Ducks of Anaheim",
+    "Year" : "1993",
+    "Win %" : "0.393"
+  },
+  "# 21." : {
+    "Epoch time of Scraping" : "1735564571",
+    "Team Name" : "Edmonton Oilers",
+    "Year" : "1993",
+    "Win %" : "0.298"
+  },
+  "# 22." : {
+    "Epoch time of Scraping" : "1735564573",
+    "Team Name" : "Florida Panthers",
+    "Year" : "1993",
+    "Win %" : "0.393"
+  },
+  "# 23." : {
+    "Epoch time of Scraping" : "1735564573",
+    "Team Name" : "Hartford Whalers",
+    "Year" : "1993",
+    "Win %" : "0.321"
+  },
+  "# 24." : {
+    "Epoch time of Scraping" : "1735564573",
+    "Team Name" : "Los Angeles Kings",
+    "Year" : "1993",
+    "Win %" : "0.321"
+  },
+  "# 25." : {
+    "Epoch time of Scraping" : "1735564573",
+    "Team Name" : "Ottawa Senators",
+    "Year" : "1993",
+    "Win %" : "0.167"
+  },
+  "# 26." : {
+    "Epoch time of Scraping" : "1735564573",
+    "Team Name" : "San Jose Sharks",
+    "Year" : "1993",
+    "Win %" : "0.393"
+  },
+  "# 27." : {
+    "Epoch time of Scraping" : "1735564573",
+    "Team Name" : "Tampa Bay Lightning",
+    "Year" : "1993",
+    "Win %" : "0.357"
+  },
+  "# 28." : {
+    "Epoch time of Scraping" : "1735564573",
+    "Team Name" : "Winnipeg Jets",
+    "Year" : "1993",
+    "Win %" : "0.286"
+  },
+  "# 29." : {
+    "Epoch time of Scraping" : "1735564573",
+    "Team Name" : "Mighty Ducks of Anaheim",
+    "Year" : "1994",
+    "Win %" : "0.333"
+  },
+  "# 30." : {
+    "Epoch time of Scraping" : "1735564574",
+    "Team Name" : "Dallas Stars",
+    "Year" : "1994",
+    "Win %" : "0.354"
+  }
+}

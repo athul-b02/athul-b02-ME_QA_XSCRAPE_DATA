@@ -6,10 +6,14 @@ import org.openqa.selenium.chrome.ChromeDriverService;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.logging.LogType;
 import org.openqa.selenium.logging.LoggingPreferences;
+import org.testng.Assert;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
+import java.io.File;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.logging.Level;
 // import io.github.bonigarcia.wdm.WebDriverManager;
 import demo.wrappers.Wrappers;
@@ -26,6 +30,27 @@ public class TestCases {
     /*
      * Do not change the provided methods unless necessary, they will help in automation and assessment
      */
+    @Test
+    public void testCase01(){
+        Wrappers.navigatetoUrl(driver, "https://www.scrapethissite.com/pages/");
+        Wrappers.clickElement(driver, By.xpath("//a[contains(text(),'Hockey')]"));
+        ArrayList<List<Object>> dataList = Wrappers.scrapeHocekyTableDate(driver, 4,40);
+        Wrappers.createJsonFile(dataList, "hockey-team-data", "hockey");
+    }
+    @Test
+    public void testCase02(){
+        Wrappers.navigatetoUrl(driver, "https://www.scrapethissite.com/pages/");
+        Wrappers.clickElement(driver, By.xpath("//a[contains(text(),'Oscar')]"));
+        ArrayList<List<Object>> dataList = Wrappers.scrapeOscarList(driver);
+        Wrappers.createJsonFile(dataList, "oscar-winner-data", "oscar");
+
+        String filePath = System.getProperty("user.dir")+"\\src\\test\\resources\\oscar-winner-data.json";
+        File file = new File(filePath);
+        Assert.assertTrue(file.exists(), "json File for oscar data does not exist");
+        Assert.assertTrue(file.length()>0, "json File is empty");
+    }   
+
+
     @BeforeTest
     public void startBrowser()
     {
